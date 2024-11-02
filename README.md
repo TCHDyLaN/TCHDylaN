@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a technology and innovation enthusiast with a strong background in Software Engineering, currently pursuing a degree in Systems Engineering at UPC. I have solid experience in web development and agile methodologies, combining theoretical knowledge with practical skills. Committed to excellence and continuous improvement, I aim to contribute to the development of efficient, high-quality technological solutions.
+I am a technology and innovation enthusiast with a strong background in Software Engineering, currently pursuing a degree in Systems Engineering at UPC. I have solid experience in web development and agile methodologies, combining theoretical knowledge with practical skills. Committed to excellence and continuous improvement, I aim to contribute to the development of efficient and high-quality technological solutions.
 
 
 # 💻 Tech Stack:
